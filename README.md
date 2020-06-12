@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/uqbar-project/parcial-tallerMecanico-algo2.svg?branch=master)](https://travis-ci.com/uqbar-project/parcial-tallerMecanico-algo2)
 
 # Resolución del parcial Taller Mecánico
 
